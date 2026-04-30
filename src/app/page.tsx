@@ -68,7 +68,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/essential-oil-bottles-isolated-white_1182-1133.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/essential-oil-bottles-isolated-white_1182-1133.jpg?_wi=1"
     />
   </div>
 
@@ -86,19 +86,19 @@ export default function LandingPage() {
         {
           title: "Quy trình đạt chuẩn",
           description: "Sản xuất trong phòng thí nghiệm đạt chuẩn dược phẩm.",
-          imageSrc: "http://img.b2bpic.net/free-photo/essential-oil-bottles-isolated-white_1182-1133.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/essential-oil-bottles-isolated-white_1182-1133.jpg?_wi=2",
           imageAlt: "Front view composition of zero waste products",
         },
         {
           title: "Giao hàng toàn quốc",
           description: "Dịch vụ vận chuyển nhanh chóng, an toàn.",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-medicinal-leaf-extracts-medicine-bottle-pink-background_181624-43339.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-medicinal-leaf-extracts-medicine-bottle-pink-background_181624-43339.jpg?_wi=1",
           imageAlt: "Front view composition of zero waste products",
         },
         {
           title: "Tư vấn 1:1",
           description: "Hỗ trợ khách hàng lựa chọn sản phẩm phù hợp.",
-          imageSrc: "http://img.b2bpic.net/free-photo/serum-bottle-plant-with-copy-space_23-2148899360.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/serum-bottle-plant-with-copy-space_23-2148899360.jpg?_wi=1",
           imageAlt: "Front view composition of zero waste products",
         },
       ]}
@@ -121,7 +121,7 @@ export default function LandingPage() {
           price: "Liên hệ",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-medicinal-leaf-extracts-medicine-bottle-pink-background_181624-43339.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-medicinal-leaf-extracts-medicine-bottle-pink-background_181624-43339.jpg?_wi=2",
         },
         {
           id: "2",
@@ -130,7 +130,7 @@ export default function LandingPage() {
           price: "Liên hệ",
           rating: 5,
           reviewCount: "95",
-          imageSrc: "http://img.b2bpic.net/free-photo/serum-bottle-plant-with-copy-space_23-2148899360.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/serum-bottle-plant-with-copy-space_23-2148899360.jpg?_wi=2",
         },
         {
           id: "3",
